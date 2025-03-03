@@ -1,5 +1,0 @@
-1. Base Components
-    1.1. Select: single, outside click close,
-    1.2. Input: text, password, array
-2. Setup pinia
-    2.1. Localstorage as database
